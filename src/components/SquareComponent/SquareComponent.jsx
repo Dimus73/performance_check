@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-const ITERATIONS = 1e9;
+const ITERATIONS = 1e8;
 
 const performHeavyComputation = (iterations) => {
     let total = 0;
